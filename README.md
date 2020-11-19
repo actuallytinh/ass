@@ -1,0 +1,2 @@
+# ass
+ASS allows you to manage your server network in one panel. You can add each individual server to the panel, with a RCON feature. It will show the statistics of each server, like server uptime, player history, and more. It will also have a player management system which allows you to punish members through the panel, with each punishment logged in the panel. A future feature is for servers that don't run on LEET, there will be a plugin created to show CPU Usage, Disk Usage, and Allocated RAM.
