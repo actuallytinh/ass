@@ -24,6 +24,11 @@ Go to the directory `PanelLocation/includes/config.php` and edit the fields prov
     $copyright = "ASS © 2020"; // DO NOT TOUCH
 ?>
 ```
+
+##### Preview
+Login Page
+![Login Panel](https://cdn.discordapp.com/attachments/766246207483674644/779065143098998784/login-01.png)
+
 ##### Other Information
 
 **Project Visibility** PRIVATE 
