@@ -36,5 +36,6 @@ Currently, the website and email provided below aren't currently working. Please
 **Contact** info@asspanel.com
 **Discord** N/A
 
-<p>ASS is not affiliated with Mojang. All brands and trademarks belong to their respective owners. ASS is not a Mojang-approved software, nor is it associated with Mojang.</p><br>
+---
+<p>ASS is not affiliated with Mojang. All brands and trademarks belong to their respective owners. ASS is not a Mojang-approved software, nor is it associated with Mojang.</p>
 ASS © 2020 ❤ Made with love by Tinh. All rights are reserved.
