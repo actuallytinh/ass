@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://asspanel.com"><img src="https://cdn.discordapp.com/attachments/775500306930335815/779044673524203520/asspanel-01.png"></img></a>
+    <b>Monitor your server with ease</b>
+</p>
+
 ### ASS - Advanced Server Supervisor
 ASS allows you to manage your server network in one panel. You can add each individual server to the panel, with a RCON feature. It will show the statistics of each server, like server uptime, player history, and more. It will also have a player management system which allows you to punish members through the panel, with each punishment logged in the panel. A future feature is for servers that don't run on LEET, there will be a plugin created to show CPU Usage, Disk Usage, and Allocated RAM.
 
@@ -31,5 +36,6 @@ Currently, the website and email provided below aren't currently working. Please
 **Contact** info@asspanel.com
 **Discord** N/A
 
+ASS is not affiliated with Mojang. All brands and trademarks belong to their respective owners. ASS is not a Mojang-approved software, nor is it associated with Mojang.
 ---
 ASS © 2020 ❤ Made with love by Tinh. All rights are reserved.
