@@ -29,6 +29,28 @@ Go to the directory `PanelLocation/includes/config.php` and edit the fields prov
 Login Page
 ![Login Panel](https://cdn.discordapp.com/attachments/766246207483674644/779065143098998784/login-01.png)
 
+##### Checklist
+- [x] Create Database
+- [x] MySQL Injection Prevention
+- [x] Create Table "users"
+- [x] Create Table "usergroups"
+- [ ] Create Table "servers"
+- [ ] Create Table "logs"
+- [x] Login Page
+<h6>Dashboard</h6>
+- [ ] Display Server Total
+- [ ] Players Online Total
+- [ ] Display Server Uptime
+- [ ] Display Player list
+- [ ] Add Server
+- [ ] Individual Server Pages
+- [ ] Player Management
+- [ ] Server RCON
+- [ ] Punishment Logging
+<h6>Panel Manager</h6>
+- [ ] Create Accounts
+- [ ] Remove Accounts
+ 
 ##### Other Information
 
 **Project Visibility** PRIVATE 
