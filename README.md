@@ -37,17 +37,18 @@ Login Page
 - [ ] Create Table "servers"
 - [ ] Create Table "logs"
 - [x] Login Page
-<h6>Dashboard</h6>
+###### Dashboard - Staff
 - [ ] Display Server Total
 - [ ] Players Online Total
 - [ ] Display Server Uptime
 - [ ] Display Player list
+- [ ] Player Management
+- [ ] Punishment Logging
+###### Server Owner/Admin
 - [ ] Add Server
 - [ ] Individual Server Pages
-- [ ] Player Management
 - [ ] Server RCON
-- [ ] Punishment Logging
-<h6>Panel Manager</h6>
+###### Panel Manager
 - [ ] Create Accounts
 - [ ] Remove Accounts
  
