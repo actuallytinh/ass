@@ -33,6 +33,8 @@ Edit only the `$settings['name']`. This is to change the community name.
 ##### Preview
 Login Page
 ![Login Panel](https://cdn.discordapp.com/attachments/766246207483674644/779065143098998784/login-01.png)
+Concept Dashboard Design
+![Dashboard](https://cdn.discordapp.com/attachments/766246207483674644/779576749650477056/dashboard-01.png)
 
 ##### Checklist
 - [x] Create Database
