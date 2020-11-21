@@ -7,8 +7,8 @@
 ASS allows you to manage your server network in one panel. You can add each individual server to the panel, with a RCON feature. It will show the statistics of each server, like server uptime, player history, and more. It will also have a player management system which allows you to punish members through the panel, with each punishment logged in the panel. A future feature is for servers that don't run on LEET, there will be a plugin created to show CPU Usage, Disk Usage, and Allocated RAM.
 
 
-##### Setup
-Go to the directory `PanelLocation/includes/config.php` and edit the fields provided. This file is to connect the panel to the database.
+###### Setup - File `config.php`
+Edit the fields according to your database credentials.
 ```php
 <?php
     // MySQL Settings
@@ -18,11 +18,12 @@ Go to the directory `PanelLocation/includes/config.php` and edit the fields prov
     define("DB_HOST", "database hostname");
 ```
 
-###### Configuration
+###### Configuration - File `settings.php`
+Edit only the `$settings['name']`. This is to change the community name.
 ```php
 <?php
     // Panel Settings
-    $settings['name'] = "DediNet";
+    $settings['name'] = "community name";
     $settings['version'] = "1.3.1"; // DO NOT TOUCH
     $settings['copyright'] = "ASS © 2020"; // DO NOT TOUCH
 ```
